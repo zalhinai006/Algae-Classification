@@ -34,3 +34,16 @@ Algae classification using a convolutional neural network model
  'Spirulina',
  'Tetraselmis',
  'Treubaria']
+ Data set is from RoboFlow
+ @misc{
+                            algae_detection_project-vyfu6_dataset,
+                            title = { Algae_Detection_project Dataset },
+                            type = { Open Source Dataset },
+                            author = { Training },
+                            howpublished = { \url{ https://universe.roboflow.com/training-gynfa/algae_detection_project-vyfu6 } },
+                            url = { https://universe.roboflow.com/training-gynfa/algae_detection_project-vyfu6 },
+                            journal = { Roboflow Universe },
+                            publisher = { Roboflow },
+                            year = { 2024 },
+                            month = { nov },
+                            }
