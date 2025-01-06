@@ -33,8 +33,8 @@ Algae classification using a convolutional neural network model
  'Scenedesmus',
  'Spirulina',
  'Tetraselmis',
- 'Treubaria']
- Data set is from RoboFlow
+ 'Treubaria'] /n
+ Data set is from RoboFlow/n
  @misc{
                             algae_detection_project-vyfu6_dataset,
                             title = { Algae_Detection_project Dataset },
