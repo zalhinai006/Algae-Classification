@@ -52,6 +52,7 @@ You can test the model by classifying new algae images. Here's an example of how
 
 ```python
 classify_images('Samples/anabaenasample.jpg')
+```
 
  ## **References**
 1. Roboflow. (2024). *Algae_Detection_project Dataset*. Available at [Roboflow Universe](https://universe.roboflow.com/training-gynfa/algae_detection_project-vyfu6).  
